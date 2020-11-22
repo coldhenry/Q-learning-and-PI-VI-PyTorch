@@ -51,7 +51,9 @@ The following graph demonstrates the performance using different discount factor
 
 <img src="https://github.com/coldhenry/Q-learning-and-PI-VI-PyTorch/blob/main/pic/gamma-0.99-correct.png" width="400" height="400" >
 
-The following graph demonstrates the performance using different learning and a fixed learning rate (gamma = 0.99) 
+The following graph demonstrates the performance using different learning rate and a fixed discount factor (alpha = 0.05) 
+
+<img src="https://github.com/coldhenry/Q-learning-and-PI-VI-PyTorch/blob/main/pic/alpha-0.05-correct.png" width="400" height="400" >
 
 
 ## Reference
