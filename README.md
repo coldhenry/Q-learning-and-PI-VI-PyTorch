@@ -35,6 +35,24 @@ discrete.
 
 ## Experiement Environment & Results
 
+Open AI Env: Frozen-Lake-v0
+
+<img src="https://github.com/coldhenry/Q-learning-and-PI-VI-PyTorch/blob/main/pic/Frozen-Lake.png" width="421" height="401" >
+
+### PI and VI
+
+<img src="https://github.com/coldhenry/Q-learning-and-PI-VI-PyTorch/blob/main/pic/PI_res.png" width="400" height="400" ><img src="https://github.com/coldhenry/Q-learning-and-PI-VI-PyTorch/blob/main/pic/VI_res.png" width="400" height="400" >
+
+### Q-learning
+
+We will discuss how performance changes with 2 factors changed: Learning rate and discount factor
+
+The following graph demonstrates the performance using different discount factor and a fixed learning rate (gamma = 0.99) 
+
+<img src="https://github.com/coldhenry/Q-learning-and-PI-VI-PyTorch/blob/main/pic/gamma-0.99-correct.png" width="400" height="400" >
+
+The following graph demonstrates the performance using different learning and a fixed learning rate (gamma = 0.99) 
+
 
 ## Reference
 [1] UCSD ECE 276C course slides
