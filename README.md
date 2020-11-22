@@ -24,16 +24,21 @@ discrete.
 
 <img src="https://github.com/coldhenry/Q-learning-and-PI-VI-PyTorch/blob/main/pic/VI.png" width="506" height="234" >
 
-### Comparison of PI and VI
+### Comparison of PI and VI [2]
 
-
+<img src="https://github.com/coldhenry/Q-learning-and-PI-VI-PyTorch/blob/main/pic/PIVI.png" width="800" height="331" >
 
 ## Model-Free Method: Q-learning
 
+### Pseudocode [3]
+<img src="https://github.com/coldhenry/Q-learning-and-PI-VI-PyTorch/blob/main/pic/Q learning.png" width="697" height="325" >
 
 ## Experiement Environment & Results
 
 
 ## Reference
 [1] UCSD ECE 276C course slides
+
 [2] Sutton and Barto's book: Reinforcement Learning: An Introduction.
+
+[3] [Lei Mao's Log book](https://leimao.github.io/blog/RL-On-Policy-VS-Off-Policy/)
