@@ -16,9 +16,15 @@ v(s) = the sum of (p(s′|s, a)[r(s, a, s′) + γv(s′)])
 where p(s′|s, a) ∈ P and r(s, a, s′) ∈ R. Assume that the state and action spaces are
 discrete.
 
-### Policy Iteration
+### Policy Iteration Pseudocode [1]
 
+<img src="https://github.com/coldhenry/Q-learning-and-PI-VI-PyTorch/blob/main/pic/PI.png" width="506" height="370" >
 
+### Value Iteration Pseudocode [1]
+
+<img src="https://github.com/coldhenry/Q-learning-and-PI-VI-PyTorch/blob/main/pic/VI.png" width="506" height="234" >
+
+### Comparison of PI and VI
 
 
 
@@ -29,3 +35,5 @@ discrete.
 
 
 ## Reference
+[1] UCSD ECE 276C course slides
+[2] Sutton and Barto's book: Reinforcement Learning: An Introduction.
